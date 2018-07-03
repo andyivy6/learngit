@@ -6,3 +6,5 @@ Git tracks changes of files.
 My stupid boss still prefers SVN.
 
 add something for github
+
+Creating a new branch is quick.
