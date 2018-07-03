@@ -7,4 +7,4 @@ My stupid boss still prefers SVN.
 
 add something for github
 
-Creating a new branch is quick.
+Creating a new branch is quick AND simple.
